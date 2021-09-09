@@ -1,0 +1,8 @@
+.bg-mail-success, .bg-password-success{
+    color: green;
+    background-color: #c5ecc5;
+}
+.bg-mail-danger, .bg-password-danger{
+    color: red;
+    background-color: #fcdede;
+}
